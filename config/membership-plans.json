@@ -1,0 +1,55 @@
+{
+  "currency": "INR",
+  "lastReviewed": "2026-11-07",
+  "source": "https://alphaauron.com/talent-forge",
+  "approvalNote": "Prices and illustrative project-value ranges were transcribed from the public official page on 2026-11-07. Alpha Auron must confirm and approve them before production publication.",
+  "plans": [
+    {
+      "name": "Starter",
+      "level": 1,
+      "fee6Months": 7500,
+      "fee12Months": 12000,
+      "monthlyProjectValueMin": 3500,
+      "monthlyProjectValueMax": 5000,
+      "summary": "For professionals beginning their Talent Forge membership journey."
+    },
+    {
+      "name": "Professional",
+      "level": 2,
+      "fee6Months": 13500,
+      "fee12Months": 24000,
+      "monthlyProjectValueMin": 7000,
+      "monthlyProjectValueMax": 10000,
+      "summary": "For professionals ready to demonstrate and apply their skills."
+    },
+    {
+      "name": "Specialist",
+      "level": 3,
+      "fee6Months": 22500,
+      "fee12Months": 42000,
+      "monthlyProjectValueMin": 12500,
+      "monthlyProjectValueMax": 17000,
+      "summary": "For professionals with focused skills and relevant experience.",
+      "popular": true
+    },
+    {
+      "name": "Elite",
+      "level": 4,
+      "fee6Months": 36500,
+      "fee12Months": 70000,
+      "monthlyProjectValueMin": 20500,
+      "monthlyProjectValueMax": 28000,
+      "summary": "For experienced professionals with a strong delivery record."
+    },
+    {
+      "name": "Auron",
+      "level": 5,
+      "fee6Months": 56500,
+      "fee12Months": 110000,
+      "monthlyProjectValueMin": 32500,
+      "monthlyProjectValueMax": 42500,
+      "summary": "For highly experienced professionals meeting the highest level criteria."
+    }
+  ],
+  "disclaimer": "Project values are illustrative ranges shown by the official website. They are not guaranteed earnings, salary, employment, or fixed monthly income. Assignments and compensation depend on the official membership terms, eligibility, project availability, suitability, performance, scope, deliverables and project agreement."
+}

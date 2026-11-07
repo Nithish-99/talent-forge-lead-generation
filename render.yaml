@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: talent-forge-lead-generation
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PUBLIC_FORM_ENABLED
+        value: "false"
+      - key: EXCEL_SYNC_ENABLED
+        value: "true"
